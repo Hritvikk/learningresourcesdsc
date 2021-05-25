@@ -171,6 +171,26 @@
 ## Cloud
 
 ## App Development
+1) As Flutter is based on Dart language you should get familiar with dart first 
+https://dart.dev/overview
+2) First take an Overview on Flutter Docs 
+https://flutter.dev/docs
+
+Youtube Videos:- 
+1) For a beginner level tutorial series 
+https://youtu.be/1ukSR1GRtMU
+2) Beginner level project 
+https://youtu.be/FTju8w4zEno
+3) If you want to go a little bit ahead like Firebase
+https://youtu.be/sfA3NWDBPZ4
+
+Paid courses:-
+https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-khMGVG8obfkg6UIMM94s1w&utm_source=aff-campaign&LSNPUBID=JVFxdTr9V80&utm_medium=udemyads
+
+
+Flutter Community 
+https://flutter.dev/community
+
 
 ## AR/VR
 
