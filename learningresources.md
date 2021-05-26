@@ -191,6 +191,11 @@ https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/?ranMI
 Flutter Community 
 https://flutter.dev/community
 
+## Android Development using Kotlin
+
+1.https://www.youtube.com/watch?v=F9UC9DY-vIU
+2.https://play.kotlinlang.org/koans/Introduction/Hello,%20world!/Task.kt
+3.https://developer.android.com/kotlin/first
 
 ## AR/VR
 
