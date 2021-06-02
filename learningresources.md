@@ -167,6 +167,12 @@
 5.https://www.guru99.com/interactive-javascript-tutorials.html
 
 ## ML/AI/Data Science
+1.Data Science Specialization : https://www.coursera.org/specializations/data-science-python
+2.10 hr crash course on ML:https://youtu.be/GwIo3gDZCVQ
+3.Statistics with Python : https://www.coursera.org/specializations/statistics-with-python
+4.ML Roadmap : https://youtu.be/6uE4nfFgc5Q
+5.10 hr data science crash course: https://youtu.be/GwIo3gDZCVQ
+6.5 hr AI crash course : https://youtu.be/JMUxmLyrhSk
 
 ## Cloud
 
